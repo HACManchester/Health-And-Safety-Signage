@@ -46,7 +46,7 @@
      inkscape:window-x="-2"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="g329"
      showguides="true"
      inkscape:guide-bbox="true"><sodipodi:guide
        orientation="1,0"
@@ -540,13 +540,12 @@
            font-size="988px"
            font-weight="400"
            id="tspan342"
-           style="font-size:988px;font-weight:400;font-family:Nulshock Rg"><tspan
+           style="font-size:988px;font-weight:normal;font-family:sans;-inkscape-font-specification:sans;font-style:normal;font-stretch:normal;font-variant:normal"><tspan
              class="TextPosition"
              x="8210"
              y="1991"
-             id="tspan344"><tspan
-               id="tspan346"
-               style="fill:#000000;stroke:none">Pillar Drill</tspan></tspan></tspan></text>
+             id="tspan344"
+             style="fill:#000000;stroke:none;-inkscape-font-specification:sans;font-family:sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">Pillar Drill</tspan></tspan></text>
 </g></g><path
      d="m 3017.8917,6167.3225 c -913.2127,0 -1825.341,840.9999 -1825.341,1682.9999 l 0,6733.9826 c 0,842 912.1283,1684 1825.341,1684 l 15004.0203,0 c 913.213,0 1826.425,-842 1826.425,-1684 l 0,-6733.9826 c 0,-842 -913.212,-1682.9999 -1826.425,-1682.9999 l -15004.0203,0 z m -1825.341,0 0,0 z m 18655.7863,10100.9825 0,0 z"
      id="path351"
